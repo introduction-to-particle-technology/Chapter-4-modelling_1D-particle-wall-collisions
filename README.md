@@ -1,4 +1,4 @@
-# Modelling 1D particle wall collisions
+# Modelling 1D particle-wall collisions
 
 In the previous interactive example, we modelled the simple case of a particle in free flight. A key feature of DEM, however, is the ability to model collisions between particles and other objects. In this example, we model the simplest such case, namely a one-dimensional collision between a particle and a flat wall.
 
